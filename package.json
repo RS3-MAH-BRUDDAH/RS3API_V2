@@ -1,0 +1,1 @@
+{ "name": "audi-rs-api", "version": "1.0.0", "description": "A PokeAPI-style REST API for every Audi RS model", "main": "server.js", "scripts": { "start": "node server.js" }, "license": "MIT" }
